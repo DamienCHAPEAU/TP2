@@ -103,7 +103,7 @@ public class TicketMachine {
 		System.out.println();   
                 balance = balance - price;
                 total = total + price;
-		return true;
+		return true;                
             }
 		
 	}
